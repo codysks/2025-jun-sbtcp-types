@@ -1,0 +1,3 @@
+[submodule "external_libs/2025-feb-cpp-nw-packer"]
+	path = external_libs/2025-feb-cpp-nw-packer
+	url = git@github.com:codysks/2025-feb-cpp-nw-packer.git
